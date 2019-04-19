@@ -33,8 +33,16 @@ ul{
   padding:30px 0;
 }
 @media(mex-width:768px) {
+  .panel{
+    padding-bottom: 20px;
+  }
   .panl__header{
     display:flex;
+    align-items: center;
   }
-
+.panel__header--icon{
+  width: 60px;
+  height:60px;
+  padding-right:30px;
+}
 }
