@@ -33,6 +33,9 @@ ul{
   padding:30px 0;
 }
 @media(mex-width:768px) {
+  .belt__container{
+    padding:50px;
+  }
   .panel{
     padding-bottom: 20px;
   }
