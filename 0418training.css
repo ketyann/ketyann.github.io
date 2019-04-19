@@ -32,7 +32,7 @@ ul{
   width:960px
   padding:30px 0;
 }
-@media(mex-width:768px) {
+@media(max-width:767px) {
   .belt__container{
     padding:50px;
   }
